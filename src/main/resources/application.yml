@@ -1,0 +1,6 @@
+micronaut:
+  application:
+    name: grpcServer
+  server:
+    port: 9090
+coherence.session.default.type: grpc

@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: io.ar.test.grpc
+testFramework: junit
+sourceLanguage: java
+buildTool: maven
+features: [annotation-api, app-name, coherence, coherence-grpc-client, http-client, jackson-xml, java, java-application, jax-rs, junit, logback, lombok, maven, mockito, netty-server, readme, shade, yaml]
