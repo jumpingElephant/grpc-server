@@ -30,12 +30,6 @@
 
 - [https://projectlombok.org/features/all](https://projectlombok.org/features/all)
 
-## Feature coherence-grpc-client documentation
-
-- [Micronaut Coherence gRPC Client documentation](https://micronaut-projects.github.io/micronaut-coherence/latest/guide/#grpc)
-
-- [https://coherence.java.net/](https://coherence.java.net/)
-
 ## Feature coherence documentation
 
 - [Micronaut Coherence documentation](https://micronaut-projects.github.io/micronaut-coherence/latest/guide/)
